@@ -6,7 +6,7 @@ namespace Neo.SmartContract
 {
     public class BookingOrder : Framework.SmartContract
     {
-        public static readonly byte[] Owner = "AQRQF27MMwKkzWzDF9tqeg7W7MPZLqAFvX".ToScriptHash();  // Should be change when deploy to MainNet
+        public static readonly byte[] Owner = "AQRQF27MMwKkzWzDF9tqeg7W7MPZLqAFvX".ToScriptHash();  
 
         public static Object Main(string operation, params object[] args)
         {
