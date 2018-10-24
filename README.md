@@ -1,20 +1,38 @@
-# Booking-Smart-Contract
+# Booking Smart Contract
 An implementated booking data smart contract - [Travala.com](https://travala.com)
 
-#### Query
+### Query Order 
 
-#### Create 
+    Query order data from Storage
+    
+### Create Order  
 
-#### Create Multiple
+    Store order data to Storage
+    
+### Create Order Multiple  
 
-#### Put Multiple
+    Store multiple order data to Storage
+    
+### Put Order Multiple  
 
-#### Update
+    Put multiple order data to Storage
+    
+### Update Order  
 
-#### Set Token Name
+    Update order data in Storage
+    
+### Set Token Name  
 
-#### Get Token Name
+    Set name for using token 
+    
+### Get Token Name  
 
-#### Mirgrate Contract
+    Get using token name
+    
+### Migrate Contract  
 
-#### Destroy Contract
+    Migrate contract to new one
+    
+### Destroy Contract  
+
+    Destroy Contract
