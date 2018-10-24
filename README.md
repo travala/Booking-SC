@@ -1,12 +1,12 @@
 # Booking-Smart-Contract
 
-### Query
+#### Query
 
-### Create 
+#### Create 
 
-## Create Multiple
+#### Create Multiple
 
-## Put Multiple
+#### Put Multiple
 
 ## Update
 
