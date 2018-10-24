@@ -1,6 +1,5 @@
 # Booking-Smart-Contract
-
-
+An implementated booking data smart contract - [Travala.com](https://travala.com)
 
 #### Query
 
@@ -9,8 +8,6 @@
 #### Create Multiple
 
 #### Put Multiple
-    Github
-  
 
 #### Update
 
